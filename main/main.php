@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>깃허브는...뭐에요 이게?   올라 가라 좀 ㅠㅠ 업!로드!</h1>
+    <h1>1234</h1>
 </body>
 </html>
